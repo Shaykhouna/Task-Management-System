@@ -1,4 +1,4 @@
-package com.shaykhouna.taskmanager;
+package com.showcase.taskmanager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
